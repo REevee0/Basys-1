@@ -1,0 +1,154 @@
+#NET "clk" LOC = P36;
+#NET "clk" IOSTANDARD = LVCMOS33;
+
+#---------------------------------------
+#NET "SW[0]" LOC = P88;
+#NET "SW[1]" LOC = P89;
+#NET "SW[2]" LOC = P90;
+#NET "SW[3]" LOC = P91;
+#NET "SW[4]" LOC = P92;
+#NET "SW[5]" LOC = P94;
+#NET "SW[6]" LOC = P95;
+#NET "SW[7]" LOC = P98;
+
+#NET "SW[0]" IOSTANDARD = LVCMOS33;
+#NET "SW[1]" IOSTANDARD = LVCMOS33;
+#NET "SW[2]" IOSTANDARD = LVCMOS33;
+#NET "SW[3]" IOSTANDARD = LVCMOS33;
+#NET "SW[4]" IOSTANDARD = LVCMOS33;
+#NET "SW[5]" IOSTANDARD = LVCMOS33;
+#NET "SW[6]" IOSTANDARD = LVCMOS33;
+#NET "SW[7]" IOSTANDARD = LVCMOS33;
+#---------------------------------------
+
+#---------------------------------------
+#NET "BTN[0]" LOC = P69;
+#NET "BTN[1]" LOC = P30;
+#NET "BTN[2]" LOC = P13;
+#NET "BTN[3]" LOC = P11;
+
+#NET "BTN[0]" IOSTANDARD = LVCMOS33;
+#NET "BTN[1]" IOSTANDARD = LVCMOS33;
+#NET "BTN[2]" IOSTANDARD = LVCMOS33;
+#NET "BTN[3]" IOSTANDARD = LVCMOS33;
+#---------------------------------------
+
+#---------------------------------------
+#NET "LED[0]" LOC = P15;
+#NET "LED[1]" LOC = P12;
+#NET "LED[2]" LOC = P10;
+#NET "LED[3]" LOC = P9;
+#NET "LED[4]" LOC = P5;
+#NET "LED[5]" LOC = P4;
+#NET "LED[6]" LOC = P3;
+#NET "LED[7]" LOC = P2;
+
+#NET "LED[0]" IOSTANDARD = LVCMOS33;
+#NET "LED[1]" IOSTANDARD = LVCMOS33;
+#NET "LED[2]" IOSTANDARD = LVCMOS33;
+#NET "LED[3]" IOSTANDARD = LVCMOS33;
+#NET "LED[4]" IOSTANDARD = LVCMOS33;
+#NET "LED[5]" IOSTANDARD = LVCMOS33;
+#NET "LED[6]" IOSTANDARD = LVCMOS33;
+#NET "LED[7]" IOSTANDARD = LVCMOS33;
+#---------------------------------------
+
+#---------------------------------------
+#NET "seven_seg_o[0]" LOC = P18;
+#NET "seven_seg_o[1]" LOC = P23;
+#NET "seven_seg_o[2]" LOC = P43;
+#NET "seven_seg_o[3]" LOC = P16;
+#NET "seven_seg_o[4]" LOC = P17;
+#NET "seven_seg_o[5]" LOC = P22;
+#NET "seven_seg_o[6]" LOC = P24;
+#NET "seven_seg_o[7]" LOC = P42;
+
+#NET "anodes_o[0]" LOC = P33;
+#NET "anodes_o[1]" LOC = P32;
+#NET "anodes_o[2]" LOC = P27;
+#NET "anodes_o[3]" LOC = P26;
+
+#NET "seven_seg[0]" IOSTANDARD = LVCMOS33;
+#NET "seven_seg[1]" IOSTANDARD = LVCMOS33;
+#NET "seven_seg[2]" IOSTANDARD = LVCMOS33;
+#NET "seven_seg[3]" IOSTANDARD = LVCMOS33;
+#NET "seven_seg[4]" IOSTANDARD = LVCMOS33;
+#NET "seven_seg[5]" IOSTANDARD = LVCMOS33;
+#NET "seven_seg[6]" IOSTANDARD = LVCMOS33;
+#NET "seven_seg[7]" IOSTANDARD = LVCMOS33;
+
+#NET "anodes[0]" IOSTANDARD = LVCMOS33;
+#NET "anodes[1]" IOSTANDARD = LVCMOS33;
+#NET "anodes[2]" IOSTANDARD = LVCMOS33;
+#NET "anodes[3]" IOSTANDARD = LVCMOS33;
+#---------------------------------------
+
+#---------------------------------------
+#NET "PS_CLK" LOC = P85;
+#NET "PS_DATA" LOC = P86;
+
+#NET "PS_CLK" IOSTANDARD = LVCMOS33;
+#NET "PS_DATA" IOSTANDARD = LVCMOS33;
+#---------------------------------------
+
+#---------------------------------------
+#NET "VGA_R" LOC = P18;
+#NET "VGA_G" LOC = P23;
+#NET "VGA_B" LOC = P43;
+#NET "VGA_HS" LOC = P16;
+#NET "VGA_VS" LOC = P17;
+
+#NET "VGA_R" IOSTANDARD = LVCMOS33;
+#NET "VGA_G" IOSTANDARD = LVCMOS33;
+#NET "VGA_B" IOSTANDARD = LVCMOS33;
+#NET "VGA_HS" IOSTANDARD = LVCMOS33;
+#NET "VGA_VS" IOSTANDARD = LVCMOS33;
+#---------------------------------------
+
+#---------------------------------------
+#NET "JA_1" LOC = P79;
+#NET "JA_2" LOC = P78;
+#NET "JA_3" LOC = P71;
+#NET "JA_4" LOC = P70;
+
+#NET "JA_1" IOSTANDARD = LVCMOS33;
+#NET "JA_2" IOSTANDARD = LVCMOS33;
+#NET "JA_3" IOSTANDARD = LVCMOS33;
+#NET "JA_4" IOSTANDARD = LVCMOS33;
+#---------------------------------------
+
+#---------------------------------------
+#NET "JB_1" LOC = P68;
+#NET "JB_2" LOC = P67;
+#NET "JB_3" LOC = P66;
+#NET "JB_4" LOC = P65;
+
+#NET "JB_1" IOSTANDARD = LVCMOS33;
+#NET "JB_2" IOSTANDARD = LVCMOS33;
+#NET "JB_3" IOSTANDARD = LVCMOS33;
+#NET "JB_4" IOSTANDARD = LVCMOS33;
+#---------------------------------------
+
+#---------------------------------------
+#NET "JC_1" LOC = P63;
+#NET "JC_2" LOC = P62;
+#NET "JC_3" LOC = P61;
+#NET "JC_4" LOC = P60;
+
+#NET "JC_1" IOSTANDARD = LVCMOS33;
+#NET "JC_2" IOSTANDARD = LVCMOS33;
+#NET "JC_3" IOSTANDARD = LVCMOS33;
+#NET "JC_4" IOSTANDARD = LVCMOS33;
+#---------------------------------------
+
+#---------------------------------------
+#NET "JD_1" LOC = P58;
+#NET "JD_2" LOC = P57;
+#NET "JD_3" LOC = P54;
+#NET "JD_4" LOC = P53;
+
+#NET "JD_1" IOSTANDARD = LVCMOS33;
+#NET "JD_2" IOSTANDARD = LVCMOS33;
+#NET "JD_3" IOSTANDARD = LVCMOS33;
+#NET "JD_4" IOSTANDARD = LVCMOS33;
+#---------------------------------------
