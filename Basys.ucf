@@ -2,14 +2,14 @@
 #NET "clk" IOSTANDARD = LVCMOS33;
 
 #---------------------------------------
-#NET "SW[0]" LOC = P88;
-#NET "SW[1]" LOC = P89;
-#NET "SW[2]" LOC = P90;
-#NET "SW[3]" LOC = P91;
-#NET "SW[4]" LOC = P92;
-#NET "SW[5]" LOC = P94;
-#NET "SW[6]" LOC = P95;
-#NET "SW[7]" LOC = P98;
+#NET "SW[0]" LOC = P98;
+#NET "SW[1]" LOC = P95;
+#NET "SW[2]" LOC = P94;
+#NET "SW[3]" LOC = P92;
+#NET "SW[4]" LOC = P91;
+#NET "SW[5]" LOC = P90;
+#NET "SW[6]" LOC = P89;
+#NET "SW[7]" LOC = P88;
 
 #NET "SW[0]" IOSTANDARD = LVCMOS33;
 #NET "SW[1]" IOSTANDARD = LVCMOS33;
@@ -92,11 +92,11 @@
 #---------------------------------------
 
 #---------------------------------------
-#NET "VGA_R" LOC = P18;
-#NET "VGA_G" LOC = P23;
-#NET "VGA_B" LOC = P43;
-#NET "VGA_HS" LOC = P16;
-#NET "VGA_VS" LOC = P17;
+#NET "VGA_R" LOC = P49;
+#NET "VGA_G" LOC = P47;
+#NET "VGA_B" LOC = P48;
+#NET "VGA_HS" LOC = P41;
+#NET "VGA_VS" LOC = P40;
 
 #NET "VGA_R" IOSTANDARD = LVCMOS33;
 #NET "VGA_G" IOSTANDARD = LVCMOS33;
